@@ -1,0 +1,30 @@
+head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    background-color: indigo;
+    color: white;
+    text-align: center;
+}
+p{
+    background-color: aqua;
+}
+h4{
+    background-color: blueviolet;
+    color: white;
+}
+ol,
+ul{
+    background-color: yellow;
+}
+img{
+    width: auto;
+    height: 400px;
+}
+img.pesto{
+    height: 400px;
+    width: 400px;
+}
